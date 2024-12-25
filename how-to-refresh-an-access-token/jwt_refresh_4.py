@@ -1,3 +1,4 @@
+# Maintains API access by refreshing the JWT token if it's expired before executing the decorated function.
 # https://gist.githubusercontent.com/jhsu98
 import time
 

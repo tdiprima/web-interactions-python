@@ -1,3 +1,4 @@
+# Initializes an instance of a class with host, key, and secret attributes, requests an access token and sets its expiration time 3500 seconds from the current time; an exception is raised if the access token is not obtained.
 # https://gist.githubusercontent.com/jhsu98
 import time
 

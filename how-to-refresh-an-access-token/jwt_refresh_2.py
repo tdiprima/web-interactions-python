@@ -1,3 +1,4 @@
+# This function attempts to retrieve a JWT access token from a specified host and handles potential exceptions.
 # https://gist.githubusercontent.com/jhsu98
 import requests
 

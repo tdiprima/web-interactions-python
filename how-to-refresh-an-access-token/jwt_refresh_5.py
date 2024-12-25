@@ -1,3 +1,4 @@
+# Manages an API connection, refreshing the JWT access token when necessary and handles API requests.
 # https://gist.githubusercontent.com/jhsu98
 import time
 import requests
