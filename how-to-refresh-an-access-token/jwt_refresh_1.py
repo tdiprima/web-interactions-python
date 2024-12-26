@@ -1,4 +1,6 @@
-# Establishes a class called MyApi that includes attributes for host, key, secret, access token, and access token expiration, with methods for initializing a new instance of the class and getting an access token, alongside a dedicated decorators class for refreshing tokens when necessary.
+# Establishes a class called MyApi that includes attributes for host, key, secret, access token, and access token
+# expiration, with methods for initializing a new instance of the class and getting an access token, alongside a
+# dedicated decorators class for refreshing tokens when necessary.
 # https://gist.githubusercontent.com/jhsu98
 class MyApi:
     host = None
